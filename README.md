@@ -16,5 +16,5 @@ You will use files under the `Diabetes/` folder provided. The classification pro
 
 ## Result and code
 
-Please see code [here](https://github.com/mingge612/PCA/blob/main/PCA.ipynb) for details.
+Please see code [here](https://github.com/mingge612/PCA/blob/main/PCA_github.ipynb) for details.
 
